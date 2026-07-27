@@ -1,0 +1,21 @@
+{
+  "repo": "founder-collective",
+  "feeds": [
+    {
+      "source": "https://foundercollective.com/feed/",
+      "feed_url": "https://foundercollective.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://foundercollective.com",
+      "feed_url": "https://foundercollective.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 3,
+  "fetched": "2026-07-25T15:00:33Z"
+}

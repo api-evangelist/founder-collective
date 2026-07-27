@@ -1,8 +1,13 @@
 aid: founder-collective
 name: Founder Collective
-description: 'Founder Collective is a company surfaced as a portfolio company of foundry-group and added
-  to the API Evangelist network as a stub for enrichment. Sector: venture-capital. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Founder Collective is a seed and pre-seed stage venture capital firm that
+  describes itself as stage-focused, sector agnostic, and proudly anti-thematic. Founded
+  more than fifteen years ago and operating from Cambridge, MA (Harvard Square) and New
+  York, NY (SoHo), the firm positions itself as founder-aligned, backing capital-efficient
+  companies from idea through IPO. General partners include Micah Rosenbloom, David Frankel,
+  and Amanda Herson, with Eric Paley as partner emeritus. Notable portfolio companies
+  include Uber, SeatGeek, WHOOP, The Trade Desk, Airtable, Cruise, Coupang, Verkada, Shield
+  AI, and Suno. Added to the API Evangelist network via the venture-capital portfolio graph.'
 url: https://raw.githubusercontent.com/api-evangelist/founder-collective/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +15,30 @@ x-backed-by:
 - foundry-group
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-sector: venture-capital
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://foundercollective.com/wp-content/uploads/2025/06/fc_favicon-300x300.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Venture Capital
+- Seed Stage
+- Pre-Seed
+- Startups
+- Investment
+- Sector Agnostic
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +46,24 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/founder-collective-domain-security.yml
 - type: Website
-  url: https://www.foundercollective.com
+  url: https://foundercollective.com
+- type: Blog
+  url: https://foundercollective.com/blog/
+- type: About
+  url: https://foundercollective.com/ethos/
+- type: Portfolio
+  url: https://foundercollective.com/portfolio/
+- type: Team
+  url: https://foundercollective.com/team/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/founder-collective
+- type: Twitter
+  url: https://x.com/fcollective
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
