@@ -1,0 +1,2917 @@
+name: Founder Collective Portfolio
+type: Portfolio
+generated: '2026-10-18'
+method: searched
+source: https://foundercollective.com/portfolio/
+summary:
+  portfolio_total: 228
+  in_network: 121
+  api_providers: 31
+  missing: 107
+  stubs_created: 0
+companies:
+- name: Adiabatic Machines
+  url: https://adiabaticmachines.com/
+  description: Adiabatic Machines builds computers for AI that replace conventional semiconductor GPUs
+    with superconducting chips.
+  sector: AI, B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2026
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: adiabatic-machines
+  in_network: false
+  is_api_provider: false
+- name: Agency Robotics
+  url: https://www.agencyrobotics.com/
+  description: Agency Robotics is powering the future of logistics.
+  sector: AI, B2B, eCommerce, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2024
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: agency-robotics
+  in_network: false
+  is_api_provider: false
+- name: AirOps
+  url: https://www.airops.com/
+  description: AirOps builds AI systems that automate content creation and management for enterprise marketing
+    and growth teams.
+  sector: AI, B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: US
+  source: https://foundercollective.com/portfolio/
+  slug: airops
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Airtable
+  url: https://www.airtable.com/
+  description: Airtable is a low-code database and collaboration tool designed to organize workflows,
+    projects, and business operations.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2013
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: airtable
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Akooda
+  url: https://www.akooda.co/
+  description: 'Akooda enables data-driven decision-making by providing insights into core business elements:
+    processes, people, customers, and resources.'
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Tulip Interfaces'
+  year_invested: 2020
+  location: BOS, US, Israel, International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: akooda
+  in_network: false
+  is_api_provider: false
+- name: Altro Health
+  url: https://altrohealth.com/
+  description: Altro Health helps wellness businesses deliver more and grow faster, offering the clinical
+    tools their clients want most, easily and compliantly.
+  sector: B2B, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2026
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: altro-health
+  in_network: false
+  is_api_provider: false
+- name: Ampleforth
+  description: Ampleforth is the digital asset protocol for AMPL, a price-stable but supply volatile cryptocurrency
+    that targets the CPI-adjusted dollar.
+  sector: Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: ampleforth
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Andela
+  url: https://www.andela.com/
+  description: Andela matches companies with vetted software developers across Africa, Latin America,
+    and other emerging tech hubs.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2014
+  location: NYC, International
+  source: https://foundercollective.com/portfolio/
+  slug: andela
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Anjuna
+  url: https://www.anjuna.io/
+  description: Anjuna secures cloud workloads by providing confidential computing environments for protecting
+    sensitive data at runtime.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: anjuna
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Ansel Health
+  url: https://www.joinansel.com/
+  description: Ansel Health offers on-demand supplemental health insurance that pays cash benefits for
+    unexpected serious illnesses and injuries.
+  sector: Healthcare, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2019
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: clara
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Appyai
+  url: https://appy.ai/
+  description: Appy.AI provides a fleet of specialized AI agents that give creators everything they need
+    to build a thriving AI business.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2024
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: appyai
+  in_network: false
+  is_api_provider: false
+- name: Aranya
+  url: https://aranya.tech/
+  description: Aranya is building the first AI-native cluster-scale operating system.
+  sector: AI
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: aranya
+  in_network: false
+  is_api_provider: false
+- name: Artsy
+  url: https://www.artsy.net/
+  description: Artsy operates a global online marketplace where collectors can discover, learn about,
+    and purchase fine art, photography, and design pieces.
+  sector: Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: art
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Avant-garde Health
+  url: https://avantgardehealth.com/
+  description: Avant-garde Health provides cost analytics and care improvement software for hospitals
+    and physicians.
+  sector: Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2017
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: avant-garde
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Ayble
+  url: https://www.ayblehealth.com/
+  description: Ayble delivers personalized, clinically-backed digital care to help people manage GI health
+    with less guesswork and more results.
+  sector: AI, B2B, Consumer, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: ayble
+  in_network: false
+  is_api_provider: false
+- name: B12
+  description: B12 pairs AI with design experts to build sleek, responsive websites that capture your
+    brand without the agency-sized price tag.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2016
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: b12
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Backengineai
+  description: BackEngine.AI listens to your customer calls, emails, and chats to map exactly what your
+    customers want—before they even tell you.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: backengineai
+  in_network: false
+  is_api_provider: false
+- name: Badge
+  description: Badge creates biometric-secured logins with private keys that are never stored, giving
+    identity security a long-overdue upgrade.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: badge
+  in_network: false
+  is_api_provider: false
+- name: Baselayer
+  description: Baselayer links fintechs and sponsor banks in a consortium built to share fraud data and
+    shut out banned business entities.
+  sector: B2B, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: baselayer
+  in_network: false
+  is_api_provider: false
+- name: BaubleBar
+  description: BaubleBar drops trend-forward, guilt-free jewelry with free shipping and returns—style
+    now, worry never.
+  sector: Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: baublebar
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Betaworks
+  url: https://www.betaworks.com/
+  description: Betaworks is a studio where design meets code to launch digital products that feel less
+    like tech, more like art.
+  sector: Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: betaworks
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Bird&Be
+  description: Bird&Be ships custom fertility kits to your doorstep, making family planning a little less
+    clinical and a lot more personal.
+  sector: Consumer, eCommerce, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: bird-and-be
+  in_network: false
+  is_api_provider: false
+- name: Blissfully
+  description: Blissfully simplifies IT management by helping businesses find, integrate, and manage their
+    tech stack—minus the chaos.
+  sector: AI, B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Vendr'
+  year_invested: 2016
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: blissfully
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Blue Box
+  description: Blue Box offers fully-managed private clouds powered by OpenStack, blending enterprise-grade
+    security with hands-off ease.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: IBM'
+  year_invested: 2012
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: blue-box
+  in_network: false
+  is_api_provider: false
+- name: BookBub
+  description: BookBub connects readers to deeply discounted ebooks and gives authors a stage to find
+    their next loyal fans.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2014
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: bookbub
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Bridge Money
+  description: Bridge builds a banking platform with no hidden fees, best-in-class support, and ways for
+    members to grow their money.
+  sector: Consumer, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: bridge-money
+  in_network: false
+  is_api_provider: false
+- name: Broadlume
+  description: Broadlume powers independent flooring retailers with an all-in-one platform to boost efficiency
+    and outpace the competition.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Cyncly'
+  year_invested: 2017
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: broadlume
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Burner
+  description: Burner gives you unlimited phone numbers on demand, keeping your real number private and
+    your life a little more under wraps.
+  sector: B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2013
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  slug: burner
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Butlr
+  description: Butlr tracks human movement with sensor networks and AI, helping businesses optimize spaces
+    and reduce risk in real time.
+  sector: AI, B2B, Consumer, eCommerce, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: butlr
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Buttonwood
+  description: Buttonwood is rebuilding financial infrastructure from the ground up, using tokens instead
+    of the traditional tech stack.
+  sector: Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: buttonwood
+  in_network: false
+  is_api_provider: false
+- name: BuzzFeed
+  description: BuzzFeed delivers news and entertainment to a global audience, fueled by data-driven storytelling
+    and viral creativity.
+  sector: Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: buzzfeed
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Canopy
+  url: https://www.canopyworks.com/
+  description: Canopy delivers reliable, wearable safety technology as a comprehensive, end-to-end service
+    to protect teams everywhere care happens.
+  sector: B2B, Hardware, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  x-name-collision: canopy
+  suggested_slug: canopyworks-com
+  in_network: false
+  is_api_provider: false
+- name: Cascade Debt
+  description: Cascade simplifies private institutional debt deals with a platform that makes complex
+    transactions simple and fast.
+  sector: B2B, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2024
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: cascade-debt
+  in_network: false
+  is_api_provider: false
+- name: Cashdrop
+  description: Cashdrop lets businesses build and run mobile storefronts in minutes, no coding—or patience—required.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2020
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: cashdrop
+  in_network: false
+  is_api_provider: false
+- name: Castle
+  description: Castle helps homeowners track expenses, pay bills, and save money on their biggest asset—all
+    from one app.
+  sector: Consumer, eCommerce, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: castle
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Cephable
+  description: Cephable reimagines tech interaction with AI-driven tools that turn facial expressions,
+    gestures, and voice into controls.
+  sector: AI, B2B, Consumer, eCommerce, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: cephable
+  in_network: false
+  is_api_provider: false
+- name: Chartbeat
+  description: Chartbeat measures and monetizes online attention to help publishers, brands, and agencies
+    build a better, quality-driven web.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: chartbeat
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Cheers
+  description: Cheers creates science-backed supplements to reduce alcohol’s health effects, promoting
+    a safer and more responsible lifestyle.
+  sector: Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: cheers
+  in_network: false
+  is_api_provider: false
+- name: Citian
+  description: Citian modernizes city infrastructure with AI, automating compliance tasks to save civil
+    engineers time and improve project quality.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2024
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: citian
+  in_network: false
+  is_api_provider: false
+- name: Civic
+  description: Civic builds a secure, single digital identity for everything you do online and off, simplifying
+    how you prove who you are.
+  sector: B2B, Consumer, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2016
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: civic
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Clair
+  description: Clair offers U.S. hourly workers instant access to their earned wages through a mobile
+    app and debit card.
+  sector: Consumer, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2020
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: clair
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: CoachUp
+  description: CoachUp connects athletes with private coaches to help them reach their full potential
+    through personalized training.
+  sector: Consumer, eCommerce, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2013
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: coachup
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Codecademy
+  description: Codecademy offers interactive, community-driven courses that teach coding skills like HTML,
+    CSS, and JavaScript.
+  sector: B2B, Consumer
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Skillsoft'
+  year_invested: 2011
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: codecademy
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: CompStak
+  description: CompStak powers real estate deals with crowdsourced commercial data, fueling analysis for
+    brokers, investors, and lenders.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2013
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: compstak
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Conceive
+  description: Conceive combines community, expert education, and coaching to improve fertility outcomes
+    for women navigating health journeys.
+  sector: Consumer, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: conceive
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Coupang
+  url: https://www.aboutcoupang.com/
+  description: Coupang is a South Korea-based ecommerce giant, transforming customer experience with fast
+    delivery and mobile-first shopping.
+  sector: Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: International
+  source: https://foundercollective.com/portfolio/
+  slug: coupang
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Coverflow
+  description: Coverflow automates insurance brokerage busywork, freeing up teams to focus on closing
+    deals, not chasing paperwork.
+  sector: AI, B2B, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: coverflow
+  in_network: false
+  is_api_provider: false
+- name: CoverWallet
+  description: CoverWallet simplifies business insurance by matching companies with the right coverage
+    quickly and affordably.
+  sector: Finance
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Aon'
+  year_invested: 2015
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: coverwallet
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Crayon
+  description: Crayon delivers real-time competitive intelligence to help sales teams monitor rivals and
+    win more deals.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2016
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: crayon
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Creative Market
+  description: Creative Market is an online marketplace where designers buy and sell fonts, icons, templates,
+    and handcrafted digital goods.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Autodesk'
+  year_invested: 2011
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: creative-market
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: CREXi
+  description: CREXi is a marketplace for commercial real estate, giving brokers easy-to-use tools to
+    simplify and speed up transactions.
+  sector: B2B, Consumer, eCommerce, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2015
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  slug: crexi
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Cruise
+  url: https://getcruise.com/
+  description: Cruise Automation develops autonomous driving technology to make transportation safer and
+    more efficient.
+  sector: Consumer, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2014
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: cruise
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Custora
+  description: Custora provides advanced customer analytics designed specifically for the retail industry.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Amperity'
+  year_invested: 2011
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: custora
+  in_network: false
+  is_api_provider: false
+- name: CYCLE
+  description: CYCLE offers e-bike fleets built for last-mile delivery businesses.
+  sector: AI, B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  slug: cycle
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Dalton Mills
+  url: https://daltonmills.com/
+  description: Dalton Mills is the AI platform for commercial and residential trades.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2026
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: dalton-mills
+  in_network: false
+  is_api_provider: false
+- name: Databox
+  url: https://databox.com/
+  description: Databox is an agentic analytics platform that combines business context with AI, helping
+    you analyze, report, and take better-informed action faster.
+  sector: B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2015
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: databox
+  in_network: false
+  is_api_provider: false
+- name: Datalot
+  description: Datalot drives inbound phone calls from qualified customers with its pay-per-call advertising
+    platform.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Centerfield'
+  year_invested: 2010
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: datalot
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: De-Ice
+  description: De-Ice develops fully electric aerospace de-icing tech that cuts costs by 50% and de-icing
+    times by 30 minutes.
+  sector: B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2017
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: de-ice
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Desktop Metal
+  description: Desktop Metal creates 3D printers that turn CAD designs into high-performance, multi-material
+    metal parts.
+  sector: AI, B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2015
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: desktop-metal
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Draftboard
+  description: Draftboard is a recruiting marketplace where companies post referral bonuses and anyone
+    can refer candidates as a Scout.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: NYC, US, Israel, International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: draftboard
+  in_network: false
+  is_api_provider: false
+- name: Drift
+  description: Drift is a sales messaging platform that helps businesses generate more leads and close
+    deals faster.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Vista Equity Partners'
+  year_invested: 2014
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: drift
+  in_network: false
+  is_api_provider: false
+- name: Dropoff
+  description: Dropoff modernizes courier services with real-time tracking, transparent pricing, and reliable
+    same-day delivery.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2015
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: dropoff
+  in_network: false
+  is_api_provider: false
+- name: Drumkit
+  description: Drumkit uses AI to help logistics firms respond faster to quotes, load tenders, and appointment
+    scheduling.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: drumkit
+  in_network: false
+  is_api_provider: false
+- name: Elaborate
+  description: Elaborate builds software that helps doctors deliver faster, higher-quality lab results
+    and improve patient care.
+  sector: Consumer, eCommerce, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: elaborate
+  in_network: false
+  is_api_provider: false
+- name: EM1
+  url: https://em1.com/
+  description: EM1 is the leading AI-enabled solution for Emergency Management.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2026
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: em1
+  in_network: false
+  is_api_provider: false
+- name: Embark
+  description: Embark provides DNA tests for dogs, revealing breed mix, health risks, and traits to improve
+    pets’ lives and prevent disease.
+  sector: B2B, Consumer, eCommerce, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2017
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: embark
+  in_network: false
+  is_api_provider: false
+- name: Emporia Research
+  description: Emporia is an AI Copilot that helps B2B companies streamline and scale their market research
+    efforts.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2024
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: emporia-research
+  in_network: false
+  is_api_provider: false
+- name: Eterneva
+  description: Eterneva turns ashes or hair into memorial diamonds, helping people celebrate the lives
+    of remarkable loved ones.
+  sector: Consumer, eCommerce, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2020
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: eterneva
+  in_network: false
+  is_api_provider: false
+- name: Ethyca
+  description: Ethyca builds automated data privacy infrastructure to help developers and companies comply
+    with regulations like GDPR and CCPA.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2019
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: ethyca
+  in_network: false
+  is_api_provider: false
+- name: Ezeebit
+  url: https://www.ezeebit.com/
+  description: Ezeebit is the leading enterprise-grade stablecoin and cryptocurrency payments platform for
+    African merchants.
+  sector: B2B, eCommerce, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: ezeebit
+  in_network: false
+  is_api_provider: false
+- name: Factual
+  description: Factual provides high-quality location data for mobile advertising, app developers, and
+    enterprise solutions.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  slug: factual
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Finxera
+  description: Finxera offers a biweekly loan payment service through channel partners, helping consumers
+    save on interest and partners grow revenue.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Priority Technology'
+  year_invested: 2009
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: finxera
+  in_network: false
+  is_api_provider: false
+- name: Firebase
+  description: Firebase is a mobile development platform offering tools to build apps, grow user bases,
+    and boost app monetization.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Google'
+  year_invested: 2013
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: firebase
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Flipside Crypto
+  description: Flipside Crypto measures the health of cryptocurrency projects based on underlying fundamentals
+    and consistent data.
+  sector: B2B, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: flipside-crypto
+  in_network: false
+  is_api_provider: false
+- name: Flourish
+  description: Flourish makes it easy to create high-end data visualizations and interactive content without
+    coding.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Canva'
+  year_invested: 2016
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  slug: flourish
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Flume Health
+  description: Flume Health powers health plans for self-insured employers with smart software and dedicated
+    healthcare experts.
+  sector: B2B, Healthcare, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2019
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: flume-health
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Font Awesome
+  description: Font Awesome is a subscription service for web creators offering extensive icon libraries
+    and custom upload options via CDN.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2015
+  location: US
+  source: https://foundercollective.com/portfolio/
+  slug: font-awesome
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Formlabs
+  description: Formlabs builds high-resolution, affordable 3D printers, bringing professional-quality
+    printing to designers and engineers.
+  sector: AI, B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2016
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: formlabs
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Galatea Bio
+  description: Galatea Bio sequences underrepresented human populations to drive the next wave of precision
+    medicine discoveries.
+  sector: B2B, Consumer, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: US
+  source: https://foundercollective.com/portfolio/
+  slug: galatea-bio
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: General Medicine
+  description: General Medicine turns healthcare into a shopable experience, making it easy to find and
+    purchase world-class care.
+  sector: Consumer, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: general-medicine
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Gigasheet
+  description: Gigasheet enables security teams to analyze massive datasets for incident response and
+    threat hunting with no complex setup.
+  sector: AI, B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: gigasheet
+  in_network: false
+  is_api_provider: false
+- name: Grain
+  description: Grain captures and organizes audio/video meeting content, making team meetings searchable
+    and shareable.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: grain
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Greybeam
+  url: https://www.greybeam.ai/
+  description: Greybeam routes Snowflake BI queries to DuckDB, saving 86% on analytics workloads.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: greybeam
+  in_network: false
+  is_api_provider: false
+- name: Grocers List
+  description: Grocers List is a recipe marketing platform built specifically for influencers who create
+    and promote recipes.
+  sector: AI, B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: grocers-list
+  in_network: false
+  is_api_provider: false
+- name: Happier
+  description: Happier offers a personalized meditation app with monthly check-ins to help manage stress
+    and improve sleep.
+  sector: B2B, Consumer, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2014
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: happier
+  in_network: false
+  is_api_provider: false
+- name: Hawthorne
+  description: Hawthorne delivers personalized personal care products tailored to each customer’s lifestyle
+    and preferences.
+  sector: Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2017
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: hawthorne
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Health Note
+  description: Health Note uses AI to pre-collect patient data and auto-generate physician notes, streamlining
+    clinic workflows.
+  sector: B2B, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2020
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: health-note
+  in_network: false
+  is_api_provider: false
+- name: Higharc
+  description: Higharc automates custom home design, making it affordable to build without hiring an architect.
+  sector: B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: US
+  source: https://foundercollective.com/portfolio/
+  slug: higharc
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Hivemapper
+  url: https://hivemapper.com/
+  description: Hivemapper is a decentralized network of people, cameras, and apps mapping the world in
+    real time.
+  sector: AI, B2B, Consumer, Hardware, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2013
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: hivemapper
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Hotel Tonight
+  description: HotelTonight offers last-minute hotel deals, letting you book stays for tonight, tomorrow,
+    or up to a week out.
+  sector: eCommerce
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Airbnb'
+  year_invested: 2011
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: hotel-tonight
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: HumanFirst
+  description: HumanFirst powers decentralized clinical trials and telehealth operations by enabling safe
+    and effective home healthcare.
+  sector: B2B, Healthcare
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Icon'
+  year_invested: 2019
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: humanfirst
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: ianacare
+  description: ianacare provides community and practical support for non-professional caregivers managing
+    loved ones’ care.
+  sector: B2B, Consumer, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: ianacare
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: icortica
+  url: https://www.icortica.com/
+  description: icortica provides dental labs and distributors with complete visibility into customer relationships,
+    enabling teams to take the right actions at the right time.
+  sector: B2B, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: icortica
+  in_network: false
+  is_api_provider: false
+- name: IFTTT
+  description: IFTTT connects popular services and devices, automating tasks and simplifying your digital
+    life.
+  sector: B2B, Consumer, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2012
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: ifttt
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Infera Health
+  url: https://inferahealth.com/
+  description: Infera is the first AI-powered continuous compliance platform for medtech.
+  sector: AI, B2B, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: infera-health
+  in_network: false
+  is_api_provider: false
+- name: InfoScout
+  description: InfoScout delivers real-time shopper insights, tracking the omnichannel behaviors of American
+    consumers.
+  sector: Consumer
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Numerator'
+  year_invested: 2013
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: infoscout
+  in_network: false
+  is_api_provider: false
+- name: Inside Weather
+  description: Inside Weather sells fast, customizable furniture online, giving you endless options without
+    the showroom slog.
+  sector: Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: inside-weather
+  in_network: false
+  is_api_provider: false
+- name: Integral Ad Science
+  description: Integral Ad Science provides tech and data solutions to help advertisers influence consumers
+    everywhere, on every device.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Vista Equity Partners'
+  year_invested: 2010
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: integral-ad-science
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Ionic
+  description: Ionic offers a leading open-source framework for building native and progressive web apps
+    with ease.
+  sector: B2B, Consumer
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: OutSystems'
+  year_invested: 2015
+  location: US
+  source: https://foundercollective.com/portfolio/
+  slug: ionic
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: IPX
+  description: IPX simplifies real estate digitization with tools for 3D scanning, modeling, and building
+    data management.
+  sector: AI, B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: ipx
+  in_network: false
+  is_api_provider: false
+- name: Iris Finance
+  url: https://www.irisfinance.co/
+  description: Iris Finance is AI FP&A software that shows consumer brands real-time contribution margin
+    by channel.
+  sector: B2B, eCommerce, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: iris-finance
+  in_network: false
+  is_api_provider: false
+- name: Jones
+  url: https://quitwithjones.com/
+  description: Jones provides a tech-driven behavioral nicotine replacement therapy program to help users
+    reduce and quit vaping.
+  sector: eCommerce, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2024
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  x-name-collision: jones
+  suggested_slug: quitwithjones-com
+  in_network: false
+  is_api_provider: false
+- name: JuliaHub
+  description: JuliaHub supports users of the Julia programming language with advanced tools and professional
+    services.
+  sector: B2B, Consumer, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2016
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: juliahub
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Kaggle
+  description: Kaggle is the world’s largest community of data scientists competing to solve real-world
+    problems.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Google'
+  year_invested: 2015
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: kaggle
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: KAMBR
+  description: KAMBR is building a modern revenue management system for the commercial aviation space.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Amadeus'
+  year_invested: 2019
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: kambr
+  in_network: false
+  is_api_provider: false
+- name: Kapu
+  description: Kapu is lowering the cost of living in Africa by bringing e-commerce to low-income households.
+  sector: B2B, Consumer, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: kapu
+  in_network: false
+  is_api_provider: false
+- name: Karat
+  description: Karat provides professional technical interviewers and tools to help companies hire faster
+    and better.
+  sector: B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2015
+  location: US
+  source: https://foundercollective.com/portfolio/
+  slug: karat
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Kasa
+  description: Kasa offers stylish, furnished apartments that feel like home for travelers on the road.
+  sector: Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: kasa
+  in_network: false
+  is_api_provider: false
+- name: Keld
+  url: https://keld.co/
+  description: Keld is building the trusted marketplace where AI work is bought and sold.
+  sector: AI, B2B, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2026
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: keld
+  in_network: false
+  is_api_provider: false
+- name: Knapsack
+  description: Knapsack is a SaaS platform that helps teams build apps using reusable, pattern-based components.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: knapsack
+  in_network: false
+  is_api_provider: false
+- name: Kodo
+  url: https://www.kodo.co/
+  description: Kodo builds a customer-first rewards network that helps businesses grow through curated
+    offers and loyalty programs.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: kodo
+  in_network: false
+  is_api_provider: false
+- name: Levels Health
+  description: Levels lets users track biomarkers in real-time to understand how their diet impacts their
+    health.
+  sector: Consumer, eCommerce, Hardware, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2020
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: levels-health
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Lovevery
+  url: https://lovevery.com/
+  description: Lovevery designs expert-approved play products to support child development, helping parents
+    feel confident.
+  sector: Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: US
+  source: https://foundercollective.com/portfolio/
+  slug: lovevery
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Lumopath
+  description: Lumopath tracks work across business tools, helping managers optimize team productivity
+    and customer support.
+  sector: B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: lumopath
+  in_network: false
+  is_api_provider: false
+- name: MakerBot
+  description: MakerBot delivers 3D printing solutions for professionals and educators around the world.
+  sector: Hardware
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Stratasys'
+  year_invested: 2010
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: makerbot
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Marine Snow
+  url: https://marine-snow.co/vgux
+  description: Marine Snow helps you bond with music-loving-individuals & create new best friends.
+  sector: Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: marine-snow
+  in_network: false
+  is_api_provider: false
+- name: Matter
+  description: Matter is building a growth-focused app to help professionals and teams improve their skills.
+  sector: B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2017
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: matter
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Memo
+  description: Memo is the first marketplace offering PR pros real engagement data from top publications.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2020
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: memo
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Mightier
+  description: Mightier uses biofeedback games to help kids build emotional strength and manage behavior.
+  sector: B2B, Consumer, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2016
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: mightier
+  in_network: false
+  is_api_provider: false
+- name: Mighty Networks
+  description: Mighty helps people create communities that grow closer as they expand.
+  sector: B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: mighty-networks
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Moat
+  description: Moat is the web’s largest digital ad search engine, offering campaign discovery and analysis.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Oracle'
+  year_invested: 2011
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: moat
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Monaire
+  url: https://monaire.ai/
+  description: Monaire is a modern HVAC intelligence platform that helps facility teams reduce energy
+    use, extend equipment lifespan, and optimize operational efficiency.
+  sector: AI, B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: monaire
+  in_network: false
+  is_api_provider: false
+- name: Motorway
+  url: https://motorway.co.uk/
+  description: Motorway is an online platform helping people sell used cars quickly and connect dealers
+    to top stock.
+  sector: Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  slug: motorway
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Mulberry
+  description: Mulberry provides a plug-and-play warranty solution for ecommerce retailers.
+  sector: B2B, eCommerce, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: mulberry
+  in_network: false
+  is_api_provider: false
+- name: Netbox Labs
+  description: NetBox is the world’s most popular ecosystem for operating, automating, and securing networks
+    and infrastructure.
+  sector: B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: netbox-labs
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Noble
+  description: Noble powers B2B social proof by connecting prospects to happy customers for peer recommendations.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: US
+  source: https://foundercollective.com/portfolio/
+  slug: noble
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: nPlan
+  description: nPlan uses AI to bring schedule certainty to large-scale construction projects.
+  sector: AI, B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  slug: nplan
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: NS1
+  description: NS1 optimizes application traffic with smarter, more secure DNS and traffic management
+    tools.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: IBM'
+  year_invested: 2015
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: ns1
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Obvious
+  url: https://obvious.ai/
+  description: Obvious is an AI agent that collaborates with you to build anything.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2019
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: obvious
+  in_network: false
+  is_api_provider: false
+- name: Odyssey Energy
+  description: Odyssey is an end-to-end platform to finance distributed renewable energy at scale.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: odyssey-energy
+  in_network: false
+  is_api_provider: false
+- name: Olix
+  url: https://olix.com/
+  description: Olix designs and manufactures optical processors to train and run inference on large AI
+    models.
+  sector: AI, B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  slug: olix
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Omada Health
+  url: https://www.omadahealth.com/
+  description: Omada Health helps employers and health plans tackle chronic disease at scale with digital
+    care.
+  sector: B2B, Consumer, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2013
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: omada-health
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Omnia Fishing
+  description: Omnia Fishing is an online shop for smart fishing gear with a shop-by-lake map to help
+    you catch more fish.
+  sector: Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: omnia-fishing
+  in_network: false
+  is_api_provider: false
+- name: OpenGov
+  url: https://opengov.com/
+  description: OpenGov helps governments better analyze and allocate public money through modern data
+    tools.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2012
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: opengov
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Optimizely
+  description: Optimizely enables businesses to experiment and personalize experiences across web, mobile,
+    and connected devices.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Episerver'
+  year_invested: 2013
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: optimizely
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Ordway
+  description: Ordway automates billing and revenue operations to help companies grow in complex billing
+    environments.
+  sector: B2B, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: US
+  source: https://foundercollective.com/portfolio/
+  slug: ordway
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Ownwell
+  description: Ownwell is an online platform that helps property owners lower the cost of owning real
+    estate.
+  sector: B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: ownwell
+  in_network: false
+  is_api_provider: false
+- name: Pagaleve
+  description: Pagaleve lets consumers pay in interest-free installments without needing a credit card.
+  sector: Consumer, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: pagaleve
+  in_network: false
+  is_api_provider: false
+- name: Pantheon
+  description: Pantheon offers website hosting and management for WordPress and Drupal with tools for
+    scaling traffic and managing sites.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: pantheon
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: par8o
+  description: par8o helps organizations actively manage the impact of their own referrals.
+  sector: B2B, Healthcare
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Cloudmed'
+  year_invested: 2012
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: par8o
+  in_network: false
+  is_api_provider: false
+- name: Patrol
+  url: https://www.patrolapp.ai/
+  description: Patrol helps Shopify merchants become more accessible and ADA compliant by automating previously
+    manual best practices with AI.
+  sector: AI, B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: patrol
+  in_network: false
+  is_api_provider: false
+- name: Periscope
+  description: Periscope lets users explore the world through live video from other people’s perspectives.
+  sector: Consumer
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Twitter'
+  year_invested: 2014
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: periscope
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Pikkit
+  description: Pikkit is the social platform for sports betting, connecting with sportbooks and syncing
+    bets instantly.
+  sector: Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: pikkit
+  in_network: false
+  is_api_provider: false
+- name: PillPack
+  url: https://pillpack.com/
+  description: PillPack is a full-service online pharmacy delivering medications in simple, organized
+    packages.
+  sector: Consumer, eCommerce, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2013
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: pillpack
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Plated
+  description: Plated delivers chef-designed recipes and pre-portioned ingredients for easy home cooking.
+  sector: eCommerce
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Albertsons'
+  year_invested: 2013
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: plated
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Pocket
+  description: Pocket lets users save and discover articles and videos to enjoy later across devices.
+  sector: Consumer
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Mozilla'
+  year_invested: 2011
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: pocket
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Queue
+  description: Queue is a mobile app for managing your watchlist and sharing movie and show recommendations
+    with friends.
+  sector: B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: queue
+  in_network: false
+  is_api_provider: false
+- name: Radial
+  url: https://www.meetradial.com/
+  description: Radial provides access to the world’s most advanced mental health treatments.
+  sector: Consumer, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2024
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: radial
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Raise
+  description: Raise pairs teams with brokers and tools to make finding office space fast and simple.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Jones Lang LaSalle (JLL)'
+  year_invested: 2017
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: raise
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Ranger
+  description: Ranger uses AI and human review to write and maintain QA tests that catch real bugs faster.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: ranger
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Rasayel
+  description: Rasayel provides an omnichannel inbox, connecting businesses to customers across social
+    and chat platforms.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  slug: rasayel
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Ray Fitness
+  description: Ray is an AI personal trainer that delivers coaching through your phone, helping people
+    transform their fitness.
+  sector: AI, Consumer, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: ray-fitness
+  in_network: false
+  is_api_provider: false
+- name: Reasoner
+  description: Reasoner focuses on retrieval accuracy and complex reasoning, excelling at traceable AI
+    outputs.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: reasoner
+  in_network: false
+  is_api_provider: false
+- name: Rebag
+  description: Rebag is an online marketplace for selling high-end handbags with fast quotes and payments.
+  sector: Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2015
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: rebag
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Rebar
+  url: https://www.withrebar.ai/
+  description: Rebar is an HVAC estimating software for lightning-fast takeoffs powered by AI.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: rebar
+  in_network: false
+  is_api_provider: false
+- name: Regal
+  description: Regal is a phone marketing platform that boosts customer conversion with AI agents that
+    feel human.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2020
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: regal
+  in_network: false
+  is_api_provider: false
+- name: Reservoir
+  url: https://www.reservoirhome.com/
+  description: Reservoir is the world’s smartest and most powerful heat-pump water heater, delivering
+    instant hot water at 6x the efficiency of gas.
+  sector: AI, Consumer, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2024
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  x-name-collision: reservoir
+  suggested_slug: reservoirhome-com
+  in_network: false
+  is_api_provider: false
+- name: Revolution Space
+  description: Revolution Space builds advanced space systems for the 21st century.
+  sector: B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2014
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: revolution-space
+  in_network: false
+  is_api_provider: false
+- name: Riskified
+  description: Riskified helps merchants approve high-risk credit card transactions with greater confidence.
+  sector: B2B, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2013
+  location: NYC, US, Israel, International
+  source: https://foundercollective.com/portfolio/
+  slug: riskified
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Rumi
+  description: Rumi is the ultimate AI meeting intelligence platform—online, cross-platform, or in-person.
+  sector: Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: rumi
+  in_network: false
+  is_api_provider: false
+- name: Rynse
+  url: https://www.gorynse.com/
+  description: Rynse builds software and a national network to help fleets track vehicle cleaning and
+    maintenance.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: rynse
+  in_network: false
+  is_api_provider: false
+- name: Scroll
+  description: Scroll offers an ad-free media experience and new payment models for publishers.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Twitter'
+  year_invested: 2016
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: scroll
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: SeatGeek
+  url: https://seatgeek.com/
+  description: SeatGeek is the web’s largest ticket search engine, helping users find events, compare
+    prices, and see seat views.
+  sector: Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: seatgeek
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Sentenai
+  description: Sentenai provides data infrastructure to automate decisions with real-time and historical
+    behavioral data.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2016
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: sentenai
+  in_network: false
+  is_api_provider: false
+- name: Sheer Health
+  description: Sheer Health simplifies health insurance and medical billing for easier understanding and
+    management.
+  sector: Consumer, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2023
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: sheer-health
+  in_network: false
+  is_api_provider: false
+- name: Shellworks
+  description: Shellworks designs sustainable packaging alternatives to plastic without sacrificing performance
+    or style.
+  sector: B2B, Consumer, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  slug: shellworks
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Shield AI
+  url: https://shield.ai/
+  description: Shield AI enables robots to gather critical information that empowers soldiers and analysts
+    to make dramatically better decisions.
+  sector: AI, B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2016
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  slug: shield-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: ShopShops
+  description: ShopShops connects U.S. retailers to Chinese consumers through interactive livestream shopping
+    experiences.
+  sector: eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2017
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: shopshops
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Sift
+  description: Sift uses machine learning to detect and prevent fraud based on behavior patterns.
+  sector: B2B, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2011
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: sift
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Simply
+  url: https://hellosimply.com/
+  description: Simply reinvents music learning, making it possible for anyone to play instruments with
+    ease.
+  sector: B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2011
+  location: Israel, International
+  source: https://foundercollective.com/portfolio/
+  slug: simply
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Skillshare
+  description: Skillshare offers online classes in creative skills taught by top practitioners around
+    the world.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2011
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: skillshare
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: SkipTheDishes
+  description: SkipTheDishes is a leading food delivery network serving mid-market cities across the U.S.
+    and Canada.
+  sector: eCommerce
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Just Eat'
+  year_invested: 2015
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  slug: skipthedishes
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: SkySafe
+  description: SkySafe secures airspace by controlling drone activity, founded by experts from MIT and
+    UC San Diego.
+  sector: B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2016
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  slug: skysafe
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Smalls
+  url: https://www.smalls.com/
+  description: Smalls delivers direct-to-consumer, human-grade cat food made with fresh, wholesome ingredients.
+  sector: Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: smalls
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Smyte
+  description: Smyte stops spam, abuse, and fraud online while improving efficiency for human moderators.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Twitter'
+  year_invested: 2014
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: smyte
+  in_network: false
+  is_api_provider: false
+- name: Socure
+  description: Socure verifies identities and predicts fraud risk using real-time, AI-driven analysis
+    of global data.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2014
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: socure
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Sonoro Studios
+  description: Sonoro produces premium Spanish-language audio content for global audiences.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2020
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: sonoro-studios
+  in_network: false
+  is_api_provider: false
+- name: Sourgum
+  url: https://www.sourgum.com/
+  description: Sourgum unifies 5,000+ local haulers through proprietary technology, delivering the reach
+    of a national provider with transparent pricing, verified service, and consistent standards nationwide.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2024
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: sourgum
+  in_network: false
+  is_api_provider: false
+- name: Stack Exchange
+  description: Stack Exchange runs 150+ Q&A communities, including Stack Overflow for software development.
+  sector: B2B, Consumer
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Prosus'
+  year_invested: 2010
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: stack-exchange
+  in_network: false
+  is_api_provider: false
+- name: Storetasker
+  description: Storetasker offers instant, expert web development help for non-technical site owners.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2017
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  slug: storetasker
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Subsalt
+  description: Subsalt makes sensitive data sharing safe with provably private data stores for teams and
+    partners.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: subsalt
+  in_network: false
+  is_api_provider: false
+- name: Suno
+  url: https://www.suno.ai/
+  description: Suno makes high-quality music creation accessible to all, using AI to create unique music
+    instantly.
+  sector: AI, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: suno
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Super
+  description: Super is a subscription service for home maintenance, covering repairs and care.
+  sector: Consumer, eCommerce, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2014
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: super
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Swoop
+  description: Swoop powers roadside assistance and vehicle logistics with a tech platform that connects
+    drivers, service providers, and insurers.
+  sector: eCommerce
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Agero'
+  year_invested: 2015
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: swoop
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Sylva
+  description: Sylva partners with independent leaders to acquire and grow niche online communities, fostering
+    a deeper sense of belonging.
+  sector: B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: sylva
+  in_network: false
+  is_api_provider: false
+- name: Talos
+  url: https://www.talos.com/
+  description: Talos provides institutional-grade prime services for crypto trading across multiple liquidity
+    providers.
+  sector: B2B, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2018
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: talos
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Tarabut
+  description: Tarabut is MENA’s leading regulated financial technology platform, powering seamless, smart,
+    and inclusive finance.
+  sector: B2B, Consumer, Finance
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Vyne'
+  year_invested: 2020
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: tarabut
+  in_network: false
+  is_api_provider: false
+- name: TellusLabs
+  description: TellusLabs uses machine learning and satellite imagery to forecast Earth’s surface changes
+    at a global scale.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Indigo Ag'
+  year_invested: 2017
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: telluslabs
+  in_network: false
+  is_api_provider: false
+- name: Tero
+  url: https://www.usetero.com/
+  description: Tero is the intelligent control plane for observability data.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2024
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: tero
+  in_network: false
+  is_api_provider: false
+- name: TetraScience
+  url: https://www.tetrascience.com/
+  description: TetraScience transforms raw lab data into AI-native formats for advanced analytics and
+    scientific discovery.
+  sector: AI, B2B, Hardware, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2015
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: tetrascience
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: The Black Tux
+  description: The Black Tux offers high-quality, guaranteed-to-fit suit and tuxedo rentals with free
+    shipping.
+  sector: Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2014
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  slug: the-black-tux
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: The Trade Desk
+  url: https://www.thetradedesk.com/
+  description: The Trade Desk’s omnichannel platform helps advertisers find new audiences and grow their
+    brands.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: LA, US
+  source: https://foundercollective.com/portfolio/
+  slug: trade-desk
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: thredUP
+  description: thredUP helps busy families conveniently buy and sell kids’ clothing online.
+  sector: Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: thredup
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: ThriveHive
+  description: ThriveHive gives local businesses custom marketing plans and tools to manage everything
+    in one platform.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Propel Business Solutions'
+  year_invested: 2012
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: thrivehive
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Tofu
+  url: https://hiretofu.com/
+  description: Tofu offers candidate fraud detection and identity verification for recruiting and hiring
+    teams.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  x-name-collision: tofu
+  suggested_slug: hiretofu-com
+  in_network: false
+  is_api_provider: false
+- name: Toolio
+  description: Toolio streamlines merchandising with data-driven tools that help retailers plan and optimize
+    operations.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2019
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: toolio
+  in_network: false
+  is_api_provider: false
+- name: Topologic
+  url: https://topologic.io/
+  description: Topologic builds automation into knitting to allow it to scale as an industrial service.
+  sector: AI, B2B, eCommerce, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: topologic
+  in_network: false
+  is_api_provider: false
+- name: ToutApp
+  description: ToutApp boosts sales productivity with templates, tracking, and analytics for deal closing.
+  sector: B2B
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Marketo'
+  year_invested: 2013
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: toutapp
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Transfix
+  description: Transfix connects shippers and carriers for smarter, faster full truckload freight brokerage.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2014
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: transfix
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: TravelJoy
+  description: TravelJoy is an all-in-one client services platform for travel agents—a CRM, an itinerary
+    builder, payment tools, and more.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2017
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  x-no-stub: delisted
+  suggested_slug: traveljoy
+  in_network: false
+  is_api_provider: false
+- name: Trek Health
+  description: Trek Health helps mental healthcare providers get paid 20x faster by streamlining revenue
+    cycle management.
+  sector: B2B, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: trek-health
+  in_network: false
+  is_api_provider: false
+- name: TrendMD
+  description: TrendMD recommends relevant scholarly articles to doctors via an embedded content discovery
+    engine.
+  sector: B2B, Consumer, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2016
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: trendmd
+  in_network: false
+  is_api_provider: false
+- name: Troops
+  description: Troops makes CRM easier by letting users manage business relationships via text.
+  sector: B2B, Consumer
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Salesforce'
+  year_invested: 2015
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: troops
+  in_network: false
+  is_api_provider: false
+- name: Tropic
+  description: Tropic helps SaaS buyers and sellers better match and evaluate software solutions.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2019
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: tropic
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: True Fit
+  description: True Fit matches users with clothing and shoes that fit their body and style through patented
+    fit technology.
+  sector: B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: true-fit
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Truework
+  description: Truework uses blockchain to verify employment quickly and securely.
+  sector: B2B, Consumer, Finance
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Checkr'
+  year_invested: 2017
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: truework
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Trusted Health
+  description: Trusted Health modernizes healthcare staffing by connecting nurses with high-demand hospitals.
+  sector: B2B, Healthcare
+  stage: unknown
+  status: unknown
+  year_invested: 2017
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: trusted-health
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Tulip Interfaces
+  description: Tulip builds web-based manufacturing platforms to streamline lean, connected production
+    lines.
+  sector: AI, B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2015
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: tulip-interfaces
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Tulip Retail
+  description: Tulip Retail offers an iOS platform to empower retail associates with a world-class omnichannel
+    experience.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2013
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: tulip-retail
+  in_network: false
+  is_api_provider: false
+- name: Turgon AI
+  url: https://turgon.ai/
+  description: Turgon AI is the world’s first AI-native System Integrator for modern IT.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: turgon-ai
+  in_network: false
+  is_api_provider: false
+- name: Uber
+  url: https://www.uber.com/
+  description: Uber connects riders and drivers to move cities forward, offering fast rides and flexible
+    earning opportunities through their app.
+  sector: Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2010
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: uber
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: uLesson
+  description: uLesson supplements K-12 education with high-quality, affordable, and accessible pre-recorded
+    online lessons.
+  sector: B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2020
+  location: International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: ulesson
+  in_network: false
+  is_api_provider: false
+- name: Universe Exploration Company
+  description: Universe lets users build creative websites and experiences with simple blocks of photos,
+    videos, text, and code.
+  sector: Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2014
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: universe-exploration-company
+  in_network: false
+  is_api_provider: false
+- name: Uptycs
+  description: Uptycs delivers query-driven security and operational insights with an open-source agent
+    and automated threat intelligence.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2016
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: uptycs
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: UserEvidence
+  description: UserEvidence captures customer success stories and turns them into beautiful, ready-to-use
+    marketing assets.
+  sector: B2B, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2022
+  location: US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: userevidence
+  in_network: false
+  is_api_provider: false
+- name: Venmo
+  description: Venmo is a free digital wallet for splitting payments with friends.
+  sector: eCommerce
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: PayPal'
+  year_invested: 2010
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: venmo
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Verascient
+  url: https://verascient.com/
+  description: Verascient is the operating system for AI-native companies. It builds up your company’s
+    collective knowledge and workflows, and makes them available to your agents.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2026
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: verascient
+  in_network: false
+  is_api_provider: false
+- name: Verkada
+  url: https://www.verkada.com/
+  description: Verkada offers cloud-managed, modern security camera systems for enterprise environments.
+  sector: B2B, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2017
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  slug: verkada
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Verve Motion
+  description: Verve Motion designs wearable exosuits to support industrial workers with lightweight,
+    high-performance robotics.
+  sector: B2B, Consumer, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2019
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: verve-motion
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: VideoWise
+  description: VideoWise helps Shopify brands sell more with shoppable videos and automated video marketing
+    tools.
+  sector: AI, B2B, Consumer, eCommerce
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: videowise
+  in_network: false
+  is_api_provider: false
+- name: Vitally
+  description: Vitally provides analytics, alerts, and workflow automation for customer success teams.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2019
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  slug: vitally
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Waystation
+  url: https://waystationai.com/
+  description: Waystation seamlessly integrates AI to simplify your raw material sourcing process.
+  sector: B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2024
+  location: SF, US
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: waystation
+  in_network: false
+  is_api_provider: false
+- name: Weavy
+  description: Weavy is a media editing platform that boosts productivity without compromising creative
+    standards.
+  sector: AI, B2B, Consumer, eCommerce
+  stage: unknown
+  status: acquired
+  exit: 'Acquired: Figma'
+  year_invested: 2024
+  location: Israel, International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: weavy
+  in_network: false
+  is_api_provider: false
+- name: Weco Ai
+  url: https://www.weco.ai/
+  description: Weco is an AI Research Engineer that automates trial-and-error code improvement.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: weco-ai
+  in_network: false
+  is_api_provider: false
+- name: WHOOP
+  url: https://www.whoop.com/
+  description: WHOOP creates wearables engineered to optimize human performance, trusted by elite athletes
+    worldwide.
+  sector: B2B, Consumer, Hardware
+  stage: unknown
+  status: unknown
+  year_invested: 2013
+  location: BOS, US
+  source: https://foundercollective.com/portfolio/
+  slug: whoop
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Windmill
+  url: https://gowindmill.com/
+  description: Windmill offers performance management that runs itself.
+  sector: AI, B2B
+  stage: unknown
+  status: unknown
+  year_invested: 2025
+  location: NYC, US
+  source: https://foundercollective.com/portfolio/
+  x-name-collision: windmill
+  suggested_slug: gowindmill-com
+  in_network: false
+  is_api_provider: false
+- name: WorkJam
+  description: WorkJam is a platform that streamlines workforce management and engagement for hourly employees.
+  sector: B2B, Consumer
+  stage: unknown
+  status: unknown
+  year_invested: 2017
+  location: EU/Canada, International
+  source: https://foundercollective.com/portfolio/
+  suggested_slug: workjam
+  in_network: false
+  is_api_provider: false
+- name: Zolve
+  url: https://www.linkedin.com/company/founder-collective
+  description: Zolve offers global financial products on a single platform, helping people access banking
+    services across borders.
+  sector: Consumer, Finance
+  stage: unknown
+  status: unknown
+  year_invested: 2021
+  location: International
+  source: https://foundercollective.com/portfolio/
+  slug: zolve
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug

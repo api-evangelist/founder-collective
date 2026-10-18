@@ -1,0 +1,754 @@
+generated: '2026-10-18'
+method: derived
+source_vc: founder-collective
+leads:
+- name: Adiabatic Machines
+  url: https://adiabaticmachines.com/
+  suggested_slug: adiabatic-machines
+  sector: AI, B2B, Hardware
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Agency Robotics
+  url: https://www.agencyrobotics.com/
+  suggested_slug: agency-robotics
+  sector: AI, B2B, eCommerce, Hardware
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Akooda
+  url: https://www.akooda.co/
+  suggested_slug: akooda
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Altro Health
+  url: https://altrohealth.com/
+  suggested_slug: altro-health
+  sector: B2B, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Appyai
+  url: https://appy.ai/
+  suggested_slug: appyai
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Aranya
+  url: https://aranya.tech/
+  suggested_slug: aranya
+  sector: AI
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Ayble
+  url: https://www.ayblehealth.com/
+  suggested_slug: ayble
+  sector: AI, B2B, Consumer, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Backengineai
+  url: ''
+  suggested_slug: backengineai
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Badge
+  url: ''
+  suggested_slug: badge
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Baselayer
+  url: ''
+  suggested_slug: baselayer
+  sector: B2B, Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Bird&Be
+  url: ''
+  suggested_slug: bird-and-be
+  sector: Consumer, eCommerce, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Blue Box
+  url: ''
+  suggested_slug: blue-box
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Bridge Money
+  url: ''
+  suggested_slug: bridge-money
+  sector: Consumer, Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Buttonwood
+  url: ''
+  suggested_slug: buttonwood
+  sector: Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Canopy
+  url: https://www.canopyworks.com/
+  suggested_slug: canopyworks-com
+  sector: B2B, Hardware, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Cascade Debt
+  url: ''
+  suggested_slug: cascade-debt
+  sector: B2B, Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Cashdrop
+  url: ''
+  suggested_slug: cashdrop
+  sector: B2B, Consumer, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Cephable
+  url: ''
+  suggested_slug: cephable
+  sector: AI, B2B, Consumer, eCommerce, Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Cheers
+  url: ''
+  suggested_slug: cheers
+  sector: Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Citian
+  url: ''
+  suggested_slug: citian
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Coverflow
+  url: ''
+  suggested_slug: coverflow
+  sector: AI, B2B, Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Custora
+  url: ''
+  suggested_slug: custora
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Dalton Mills
+  url: https://daltonmills.com/
+  suggested_slug: dalton-mills
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Databox
+  url: https://databox.com/
+  suggested_slug: databox
+  sector: B2B, Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Draftboard
+  url: ''
+  suggested_slug: draftboard
+  sector: B2B, Consumer, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Drift
+  url: ''
+  suggested_slug: drift
+  sector: B2B, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Dropoff
+  url: ''
+  suggested_slug: dropoff
+  sector: B2B, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Drumkit
+  url: ''
+  suggested_slug: drumkit
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Elaborate
+  url: ''
+  suggested_slug: elaborate
+  sector: Consumer, eCommerce, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: EM1
+  url: https://em1.com/
+  suggested_slug: em1
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Embark
+  url: ''
+  suggested_slug: embark
+  sector: B2B, Consumer, eCommerce, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Emporia Research
+  url: ''
+  suggested_slug: emporia-research
+  sector: B2B, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Eterneva
+  url: ''
+  suggested_slug: eterneva
+  sector: Consumer, eCommerce, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Ethyca
+  url: ''
+  suggested_slug: ethyca
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Ezeebit
+  url: https://www.ezeebit.com/
+  suggested_slug: ezeebit
+  sector: B2B, eCommerce, Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Finxera
+  url: ''
+  suggested_slug: finxera
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Flipside Crypto
+  url: ''
+  suggested_slug: flipside-crypto
+  sector: B2B, Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Gigasheet
+  url: ''
+  suggested_slug: gigasheet
+  sector: AI, B2B, Hardware
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Greybeam
+  url: https://www.greybeam.ai/
+  suggested_slug: greybeam
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Grocers List
+  url: ''
+  suggested_slug: grocers-list
+  sector: AI, B2B, Consumer, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Happier
+  url: ''
+  suggested_slug: happier
+  sector: B2B, Consumer, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Health Note
+  url: ''
+  suggested_slug: health-note
+  sector: B2B, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: icortica
+  url: https://www.icortica.com/
+  suggested_slug: icortica
+  sector: B2B, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Infera Health
+  url: https://inferahealth.com/
+  suggested_slug: infera-health
+  sector: AI, B2B, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: InfoScout
+  url: ''
+  suggested_slug: infoscout
+  sector: Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Inside Weather
+  url: ''
+  suggested_slug: inside-weather
+  sector: Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: IPX
+  url: ''
+  suggested_slug: ipx
+  sector: AI, B2B, Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Iris Finance
+  url: https://www.irisfinance.co/
+  suggested_slug: iris-finance
+  sector: B2B, eCommerce, Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Jones
+  url: https://quitwithjones.com/
+  suggested_slug: quitwithjones-com
+  sector: eCommerce, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: KAMBR
+  url: ''
+  suggested_slug: kambr
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Kapu
+  url: ''
+  suggested_slug: kapu
+  sector: B2B, Consumer, Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Kasa
+  url: ''
+  suggested_slug: kasa
+  sector: Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Keld
+  url: https://keld.co/
+  suggested_slug: keld
+  sector: AI, B2B, Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Knapsack
+  url: ''
+  suggested_slug: knapsack
+  sector: B2B, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Kodo
+  url: https://www.kodo.co/
+  suggested_slug: kodo
+  sector: B2B, Consumer, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Lumopath
+  url: ''
+  suggested_slug: lumopath
+  sector: B2B, Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Marine Snow
+  url: https://marine-snow.co/vgux
+  suggested_slug: marine-snow
+  sector: Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Mightier
+  url: ''
+  suggested_slug: mightier
+  sector: B2B, Consumer, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Monaire
+  url: https://monaire.ai/
+  suggested_slug: monaire
+  sector: AI, B2B, Hardware
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Mulberry
+  url: ''
+  suggested_slug: mulberry
+  sector: B2B, eCommerce, Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Obvious
+  url: https://obvious.ai/
+  suggested_slug: obvious
+  sector: B2B, Consumer, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Odyssey Energy
+  url: ''
+  suggested_slug: odyssey-energy
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Omnia Fishing
+  url: ''
+  suggested_slug: omnia-fishing
+  sector: Consumer, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Ownwell
+  url: ''
+  suggested_slug: ownwell
+  sector: B2B, Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Pagaleve
+  url: ''
+  suggested_slug: pagaleve
+  sector: Consumer, Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: par8o
+  url: ''
+  suggested_slug: par8o
+  sector: B2B, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Patrol
+  url: https://www.patrolapp.ai/
+  suggested_slug: patrol
+  sector: AI, B2B, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Pikkit
+  url: ''
+  suggested_slug: pikkit
+  sector: Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Queue
+  url: ''
+  suggested_slug: queue
+  sector: B2B, Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Ray Fitness
+  url: ''
+  suggested_slug: ray-fitness
+  sector: AI, Consumer, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Reasoner
+  url: ''
+  suggested_slug: reasoner
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Rebar
+  url: https://www.withrebar.ai/
+  suggested_slug: rebar
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Regal
+  url: ''
+  suggested_slug: regal
+  sector: B2B, Consumer, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Reservoir
+  url: https://www.reservoirhome.com/
+  suggested_slug: reservoirhome-com
+  sector: AI, Consumer, Hardware
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Revolution Space
+  url: ''
+  suggested_slug: revolution-space
+  sector: B2B, Hardware
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Rumi
+  url: ''
+  suggested_slug: rumi
+  sector: Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Rynse
+  url: https://www.gorynse.com/
+  suggested_slug: rynse
+  sector: B2B, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Sentenai
+  url: ''
+  suggested_slug: sentenai
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Sheer Health
+  url: ''
+  suggested_slug: sheer-health
+  sector: Consumer, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Smyte
+  url: ''
+  suggested_slug: smyte
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Sonoro Studios
+  url: ''
+  suggested_slug: sonoro-studios
+  sector: B2B, Consumer, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Sourgum
+  url: https://www.sourgum.com/
+  suggested_slug: sourgum
+  sector: B2B, Consumer, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Stack Exchange
+  url: ''
+  suggested_slug: stack-exchange
+  sector: B2B, Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Subsalt
+  url: ''
+  suggested_slug: subsalt
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Sylva
+  url: ''
+  suggested_slug: sylva
+  sector: B2B, Consumer, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Tarabut
+  url: ''
+  suggested_slug: tarabut
+  sector: B2B, Consumer, Finance
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: TellusLabs
+  url: ''
+  suggested_slug: telluslabs
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Tero
+  url: https://www.usetero.com/
+  suggested_slug: tero
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Tofu
+  url: https://hiretofu.com/
+  suggested_slug: hiretofu-com
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Toolio
+  url: ''
+  suggested_slug: toolio
+  sector: B2B, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Topologic
+  url: https://topologic.io/
+  suggested_slug: topologic
+  sector: AI, B2B, eCommerce, Hardware
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: TravelJoy
+  url: ''
+  suggested_slug: traveljoy
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+  no_stub: delisted
+- name: Trek Health
+  url: ''
+  suggested_slug: trek-health
+  sector: B2B, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: TrendMD
+  url: ''
+  suggested_slug: trendmd
+  sector: B2B, Consumer, Healthcare
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Troops
+  url: ''
+  suggested_slug: troops
+  sector: B2B, Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Tulip Retail
+  url: ''
+  suggested_slug: tulip-retail
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Turgon AI
+  url: https://turgon.ai/
+  suggested_slug: turgon-ai
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: uLesson
+  url: ''
+  suggested_slug: ulesson
+  sector: B2B, Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Universe Exploration Company
+  url: ''
+  suggested_slug: universe-exploration-company
+  sector: Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: UserEvidence
+  url: ''
+  suggested_slug: userevidence
+  sector: B2B, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Verascient
+  url: https://verascient.com/
+  suggested_slug: verascient
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: VideoWise
+  url: ''
+  suggested_slug: videowise
+  sector: AI, B2B, Consumer, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Waystation
+  url: https://waystationai.com/
+  suggested_slug: waystation
+  sector: B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Weavy
+  url: ''
+  suggested_slug: weavy
+  sector: AI, B2B, Consumer, eCommerce
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Weco Ai
+  url: https://www.weco.ai/
+  suggested_slug: weco-ai
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: Windmill
+  url: https://gowindmill.com/
+  suggested_slug: gowindmill-com
+  sector: AI, B2B
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false
+- name: WorkJam
+  url: ''
+  suggested_slug: workjam
+  sector: B2B, Consumer
+  source_vc: founder-collective
+  source: https://foundercollective.com/portfolio/
+  stub_created: false

@@ -1,15 +1,15 @@
 aid: founder-collective
 name: Founder Collective
-description: 'Founder Collective is a seed and pre-seed stage venture capital firm that
-  describes itself as stage-focused, sector agnostic, and proudly anti-thematic. Founded
-  more than fifteen years ago and operating from Cambridge, MA (Harvard Square) and New
-  York, NY (SoHo), the firm positions itself as founder-aligned, backing capital-efficient
-  companies from idea through IPO. General partners include Micah Rosenbloom, David Frankel,
-  and Amanda Herson, with Eric Paley as partner emeritus. Notable portfolio companies
-  include Uber, SeatGeek, WHOOP, The Trade Desk, Airtable, Cruise, Coupang, Verkada, Shield
-  AI, and Suno. Added to the API Evangelist network via the venture-capital portfolio graph.'
+description: Founder Collective is a seed and pre-seed stage venture capital firm that describes itself
+  as stage-focused, sector agnostic, and proudly anti-thematic. Founded more than fifteen years ago and
+  operating from Cambridge, MA (Harvard Square) and New York, NY (SoHo), the firm positions itself as
+  founder-aligned, backing capital-efficient companies from idea through IPO. General partners include
+  Micah Rosenbloom, David Frankel, and Amanda Herson, with Eric Paley as partner emeritus. Notable portfolio
+  companies include Uber, SeatGeek, WHOOP, The Trade Desk, Airtable, Cruise, Coupang, Verkada, Shield
+  AI, and Suno. Its public portfolio lists 228 companies with year invested, location, and categories
+  (B2B, consumer, ecommerce, AI, healthcare, finance, hardware), including 42 marked as acquired.
 url: https://raw.githubusercontent.com/api-evangelist/founder-collective/refs/heads/main/apis.yml
-x-type: company
+x-type: venture-capital
 x-source: vc-portfolio
 x-backed-by:
 - foundry-group
@@ -39,23 +39,27 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://foundercollective.com/wp-content/uploads/2025/06/fc_favicon-300x300.png
-specificationVersion: '0.23'
+specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-19'
+modified: '2026-10-18'
 tags:
-- Company
 - Venture Capital
 - Seed Stage
 - Pre-Seed
 - Startups
 - Investment
 - Sector Agnostic
+- Micro VC
+- Boston
+- New York
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+- FN: Founder Collective
+  url: https://foundercollective.com
 common:
 - type: DomainSecurity
   url: security/founder-collective-domain-security.yml
@@ -73,8 +77,25 @@ common:
   url: https://www.linkedin.com/company/founder-collective
 - type: Twitter
   url: https://x.com/fcollective
+- type: Portfolio
+  url: portfolio/founder-collective-portfolio.yml
+- type: Team
+  url: team/founder-collective-team.yml
+- type: Features
+  name: Fund Facts
+  data:
+    Stage: Pre-seed and seed
+    Sectors: Sector agnostic ("proudly anti-thematic")
+    Geography: Primarily US (Boston, NYC, Bay Area, LA) with international investments
+    HQ: Cambridge, MA and New York, NY
+    Founded: More than fifteen years ago (exact year not stated on site)
+  sources:
+  - https://foundercollective.com/ethos/
+  - https://foundercollective.com/portfolio/
+  updated: '2026-10-18'
 x-enrichment:
   date: '2026-07-19'
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-category: Micro VC
